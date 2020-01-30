@@ -17,6 +17,7 @@ var STOP_MESSAGE = "Goodbye!";
 
 //=========================================================================================================================================
 //TODO: Replace this data with your own.  You can find translations of this data at http://github.com/alexa/skill-sample-node-js-fact/data
+// Testing
 //=========================================================================================================================================
 var data = [
     "Bill Skarsgård, who plays Pennywise in the new adapation, is the younger brother of Alexander Skarsgård.",
